@@ -52,7 +52,7 @@ fim
 
 # ⛏ **FLUXOGRAMA**
 
-![fluxograma](https://github.com/GabrielHiro/MEDIA-ALUNO/blob/bdde93bb070de34de403c0aaaf6db9cad6f88b84/ATV001-EX001.png)
+![fluxograma](https://github.com/GabrielHiro/MEDIA-ALUNO/blob/4a05523adbd7768793ce4823d04a0962ee2306cc/Fluxograma_agenda.png)
 
 #### 📑Licença MIT
 #### 🕑Última atualização 08/06/2022
